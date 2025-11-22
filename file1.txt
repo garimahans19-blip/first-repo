@@ -1,2 +1,2 @@
-This is my version 1 code
+Code version 1
 And this is my first file
